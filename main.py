@@ -2,7 +2,7 @@ import telebot
 import dbwork
 import parsework
 
-TOKEN = '7662367731:AAHcw5ouZQqXJQACEmn6GAy9F5Om4tD7LqM'
+TOKEN = 'My Token'
 bot = telebot.TeleBot(TOKEN)
 msg = telebot.types.Message
 
